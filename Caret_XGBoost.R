@@ -23,7 +23,7 @@ library("caretEnsemble")
 
 
 
-#Site: Three factors represeting furnancies at three differnt geographic locations
+#Site: Three factors represeting furnancies at three differnt geographic locations shown
 #Ba: Barium ppm
 #Co: Cobalt ppm
 #Cr: Chromium ppm
